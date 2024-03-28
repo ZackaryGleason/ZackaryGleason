@@ -14,7 +14,7 @@ My journey into cybersecurity is fueled by an insatiable curiosity to unravel th
 |------------------------------------------|---------------------------|
 | Microsoft Sentinel SIEM and log analysis | https://github.com/ZackaryGleason/Microsoft-Sentinel-SIEM-Lab   |                  
 | Nessus Vulnerability Management Lab      | https://github.com/ZackaryGleason/Vulnerability-Management-Lab |  
-| Active Directory                         |
+| Active Directory                         | https://github.com/ZackaryGleason/Active-Directory-Lab |
 
 ## Certifications
 
