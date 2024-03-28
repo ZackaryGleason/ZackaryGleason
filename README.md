@@ -12,8 +12,8 @@ My journey into cybersecurity is fueled by an insatiable curiosity to unravel th
 
 | Skill                                    | Associated Project        |
 |------------------------------------------|---------------------------|
-| Microsoft Sentinel SIEM and log analysis |    |                  
-| Nessus Vulnerability Management Lab      | (https://github.com/ZackaryGleason/Vulnerability-Management-Lab) |                                             
+| Microsoft Sentinel SIEM and log analysis | https://github.com/ZackaryGleason/Microsoft-Sentinel-SIEM-Lab   |                  
+| Nessus Vulnerability Management Lab      | https://github.com/ZackaryGleason/Vulnerability-Management-Lab |                                             
 
 ## Certifications
 
