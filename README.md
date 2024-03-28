@@ -1,11 +1,11 @@
 ### Hello, I'm Zackary
 
-I have had a lifelong interest in tech and am attempting to make a switch into the cyber security industry.
+With my background of pest control and passion for technology, I have developed a knack for complex problem solving and remediation of vulnerabilties. Now, I am thrilled to channel that passion into safeguarding digital landscapes and protecting against potential threats.
 
 
 ## Objective
 
-My interest in tech and complex problem solving has led me to develop a passion for cybersecurity and I am now eager to transition into this field.
+My journey into cybersecurity is fueled by an insatiable curiosity to unravel the complexities of cyberspace and a relentless drive to stay ahead of the curve in this ever-evolving field. I thrive on challenges and am eager to dive into this dynamic field of work. 
 
 
 ## Skills
