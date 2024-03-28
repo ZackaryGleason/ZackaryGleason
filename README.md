@@ -1,6 +1,6 @@
 ### Hello, I'm Zackary
 
-With my background of pest control and passion for technology, I have developed a knack for complex problem solving and remediation of vulnerabilties. Now, I am thrilled to channel that passion into safeguarding digital landscapes and protecting against potential threats.
+Along my career, I have developed a knack for complex problem solving and remediation of vulnerabilties. Now, I am thrilled to channel that passion into safeguarding digital landscapes and protecting against potential threats.
 
 
 ## Objective
@@ -13,7 +13,8 @@ My journey into cybersecurity is fueled by an insatiable curiosity to unravel th
 | Skill                                    | Associated Project        |
 |------------------------------------------|---------------------------|
 | Microsoft Sentinel SIEM and log analysis | https://github.com/ZackaryGleason/Microsoft-Sentinel-SIEM-Lab   |                  
-| Nessus Vulnerability Management Lab      | https://github.com/ZackaryGleason/Vulnerability-Management-Lab |                                             
+| Nessus Vulnerability Management Lab      | https://github.com/ZackaryGleason/Vulnerability-Management-Lab |  
+| Active Directory                         |
 
 ## Certifications
 
