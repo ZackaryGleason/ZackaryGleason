@@ -5,7 +5,7 @@ Along my career, I have developed a knack for complex problem solving and remedi
 
 ## Objective
 
-My journey into cybersecurity is fueled by an insatiable curiosity to unravel the complexities of cyberspace and a relentless drive to stay ahead of the curve in this ever-evolving field. I thrive on challenges and am eager to dive into this dynamic field of work. 
+My journey into cybersecurity is fueled by an insatiable hunger to learn new skills, improve my abilities, and a relentless drive to stay ahead of the curve in this ever-evolving field. I thrive on challenges and am eager to dive into this dynamic field of work. 
 
 
 ## Skills
